@@ -1,1 +1,4 @@
 Le commit est l’action essentielle permettant de versioner son code
+
+La commande pour l’executer est:
+git commit -m “le message que vous voulez”
