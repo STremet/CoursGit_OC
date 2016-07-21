@@ -1,0 +1,1 @@
+Le commit est l’action essentielle permettant de versioner son code
